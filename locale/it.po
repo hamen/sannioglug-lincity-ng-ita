@@ -1,19 +1,18 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Lincity-ng Traduzione Italiana
+# Copyright (C) 2010 SannioGLUG
+# This file is distributed under the same license as the Lincity-ng package.
+# SannioGLUG <info [at] sannioglug [dot] org >
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Lincity-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-10-08 20:37+0200\n"
-"PO-Revision-Date: 2010-10-08 20:52+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2010-10-08 22:42+0200\n"
+"Last-Translator: SannioGLUG <info@sannioglug.org>\n"
+"Language-Team: ITALIANO <info@sannioglug.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src/lincity/power.cpp:301
@@ -21,7 +20,6 @@ msgid "You have too many power grids. Join some of them"
 msgstr "Hai troppe reti. Uniscine alcune"
 
 #: src/lincity/fileutil.cpp:201 src/lincity/fileutil.cpp:245
-#, fuzzy
 msgid "Error. Can't find LINCITY_HOME"
 msgstr "Errore. Impossibile trovare LINCITY_HOME"
 
@@ -58,18 +56,22 @@ msgid ""
 "needed. After, starvation will occur!  You should check starvation minimap, "
 "and read waterwell help page :-)"
 msgstr ""
+"Avanzamento da una versione precedente. Ha 10 anni per costruire i pozzi "
+"d'acqua dove necessario. Altrimenti ci sara` carestia! Dovresti controllare "
+"la minimappa della carestia e leggere la pagina di aiuto dei pozzi "
+"d'acqua :-)"
 
 #: src/lincity/old_ldsvguts.cpp:164
 msgid "Loading scene"
-msgstr ""
+msgstr "Caricamento scena"
 
 #: src/lincity/engine.cpp:154
 msgid "Port must be connected to river all along right side."
-msgstr ""
+msgstr "Il lato del porto da connettere al fiume e` il lato destro."
 
 #: src/lincity/engine.cpp:166
 msgid "You can't build a water well here: it is all desert."
-msgstr ""
+msgstr "Non puoi costruire un pozzo d'acqua in questo punto: e` tutto deserto."
 
 #: src/lincity/engine.cpp:180
 msgid "You can't build a tip here: this area was once a landfill"
@@ -78,14 +80,17 @@ msgstr ""
 #: src/lincity/engine.cpp:195
 msgid "You can't build a mine here: This area was once a landfill"
 msgstr ""
+"Non puoi costruire una miniera qui: Questa area in passato era una discarica"
 
 #: src/lincity/engine.cpp:206
 msgid "You can't build a mine here: there is no ore left at this site"
-msgstr ""
+msgstr "Non puoi costruire una miniera qui: non c'e` piu` ora in questo punto"
 
 #: src/lincity/engine.cpp:216
 msgid "You can't build a park here: it is a desert, parks need water"
 msgstr ""
+"Non puoi costruire un parco qui: e` un deserto, i parchi hanno bisogno di "
+"acqua"
 
 #: src/lincity/engine.cpp:231
 msgid "Too many substations + windmills. You cannot build one more"

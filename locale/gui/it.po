@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lincity-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-10-08 20:37+0200\n"
-"PO-Revision-Date: 2010-10-09 12:23+0200\n"
+"PO-Revision-Date: 2010-10-09 16:00+0200\n"
 "Last-Translator: SannioGLUG <info@sannioglug.org>\n"
 "Language-Team: ITALIANO <info@sannioglug.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,12 +28,16 @@ msgid ""
 "A fire has broken out at a shanty town. It is in a fire cover area and "
 "APPEARS to be under control. "
 msgstr ""
+"E` scoppiato un incendio in una baraccopoli. La zona e` coperta dai pompieri "
+"e tutto SEMBRA essere sotto controll. "
 
 #: data/gui/shfire-oc.xml
 msgid ""
 "A fire has broken out at a shanty town. The fire is OUT OF CONTROL and may "
 "spread to other areas. "
 msgstr ""
+"E` scoppiato un incendio in una baraccopoli. L'incendio e` FUORI CONTROLLO e "
+"potrebbe estendersi ad altre aree. "
 
 #: data/gui/credits.xml data/gui/savegame.xml data/gui/loadgame.xml
 #: data/gui/newgame.xml
@@ -50,35 +54,37 @@ msgstr "Disponibile Campo da basket"
 
 #: data/gui/blacksmithup.xml
 msgid "Blacksmiths available"
-msgstr ""
+msgstr "Maniscalchi disponibili"
 
 #: data/gui/bulldoze_monument_yn.xml
 msgid "Bulldozing a monument costs a lot of money."
-msgstr ""
+msgstr "Distruggere un monumento costera` molti soldi."
 
 #: data/gui/bulldoze_river_yn.xml
 msgid "Bulldozing a section of river costs a lot of money."
-msgstr ""
+msgstr "Distruggere una sezione di fiume costera` molti soldi. "
 
 #: data/gui/bulldoze_shanty_yn.xml
 msgid "Bulldozing a shanty town costs a lot of money and may cause a fire."
 msgstr ""
+"Distruggere una baraccopoli costera` molti soldi e potrebbe causare un "
+"incendio."
 
 #: data/gui/tradedialog.xml data/gui/portdialog.xml
 msgid "Buy"
-msgstr ""
+msgstr "Compra"
 
 #: data/gui/newgame.xml
 msgid "Choose Scenario"
-msgstr ""
+msgstr "Scegli lo scenario"
 
 #: data/gui/pbar.xml data/gui/tradedialog.xml data/gui/portdialog.xml
 msgid "Coal"
-msgstr ""
+msgstr "Carbone"
 
 #: data/gui/coalpowerup.xml
 msgid "Coal Fired Power Stations available"
-msgstr ""
+msgstr "Centrali elettriche a carbone disponibili"
 
 #: data/gui/coalmineup.xml
 msgid "Coal Mine available"

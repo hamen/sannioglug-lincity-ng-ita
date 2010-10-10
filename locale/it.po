@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Lincity-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-10-08 20:37+0200\n"
-"PO-Revision-Date: 2010-10-09 15:20+0200\n"
+"PO-Revision-Date: 2010-10-10 15:42+0200\n"
 "Last-Translator: SannioGLUG <info@sannioglug.org>\n"
 "Language-Team: ITALIANO <info@sannioglug.org>\n"
 "MIME-Version: 1.0\n"
@@ -518,11 +518,11 @@ msgstr "Situazione della rete"
 
 #: src/lincity/modules/windmill.cpp:92 src/lincity/modules/substation.cpp:104
 msgid "T. Cap."
-msgstr ""
+msgstr "Cap. Tot."
 
 #: src/lincity/modules/windmill.cpp:95 src/lincity/modules/substation.cpp:107
 msgid "A. Cap."
-msgstr ""
+msgstr "Cap. M."
 
 #: src/lincity/modules/windmill.cpp:99 src/lincity/modules/power_line.cpp:49
 #: src/lincity/modules/coal_power.cpp:100
@@ -710,7 +710,7 @@ msgstr "Pieno"
 
 #: src/lincity/modules/tip.cpp:109
 msgid "Days degenerating"
-msgstr ""
+msgstr "Tempo di decadimento"
 
 #: src/lincity/modules/light_industry.cpp:276
 msgid "Light Industry"

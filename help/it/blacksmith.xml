@@ -2,19 +2,18 @@
 <Document style="helpdocument">
 	<p style="htitle">Maniscalchi</p>
 	<p style="hp">I maniscalchi trasformano l'acciaio e il carbone in prodotti. Li userete soprattutto nelle prime fasi del gioco. Naturalmente mettono a disposizione anche posti di lavoro.</p>
-	<p style="hp">Before you have steel works, you must rely on the steel produced by communes. 5 or 6 communes per blacksmith is recommended.</p>
-	<p style="hp">Blacksmiths do not have to be connected to transport. They can get all they need from markets that are within range.</p>
-	<p style="hp">You can see when a blacksmith is working in the usual way, by clicking on it, and every so often the animation will come to life.</p>
-
-	<p style="hp">This is a blacksmith</p>
+	<p style="hp">Prima di creare le acciaierie, si deve poter contare sull'acciaio prodotto dalle "communes".Sono raccomandati 5 o 6 "communes" per maniscalco.</p>
+	<p style="hp">I fabbri non devono essere collegati ai trasporti. Possono prendere tutto il necessario dai mercati che si trovano dentro il range.</p>
+	<p style="hp">Cliccando sul fabbro si puo` vedere quando sta lavorando, e ogni tanto l'animazione sulla bottega del fabbro lo rendera` evidente.</p>
+	<p style="hp">Questo e` il fabbro</p>
 	<img src="images/tiles/blacksmith0.png" halign="center"/>
-	<p style="hp">and this its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/industry/blacksmith.png" halign="center"/>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="market">Market</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="market">Mercato</a></li>
 	<li><a href="ore">Ore</a></li>
 	<li><a href="commune">Commune</a></li>
-	<li><a href="steel">Steel</a></li>
-	<li><a href="jobs">Jobs</a></li>
+	<li><a href="steel">Acciaio</a></li>
+	<li><a href="jobs">Offerte di lavoro</a></li>
 </Document>

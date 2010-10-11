@@ -228,7 +228,7 @@ msgstr "Denaro"
 
 #: data/gui/mainmenu.xml data/gui/newgame.xml
 msgid "New Game"
-msgstr "Nuovo gioco"
+msgstr "Nuova partita"
 
 #: data/gui/blacksmithup.xml data/gui/rocketup.xml data/gui/firestationup.xml
 #: data/gui/coalpowerup.xml data/gui/parkup.xml data/gui/ltindustryup.xml

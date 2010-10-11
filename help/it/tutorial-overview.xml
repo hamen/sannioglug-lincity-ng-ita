@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document style="helpdocument">
-<p style="htitle">Overview of the screen </p>
+  <p style="htitle">Panoramica dello schermo </p>
 
-<p style="hp"><b>Top left </b>contains icons dock with tools (query and bulldoze) and all the building you can get during the game. </p>
-<li>Left-Click on an icon to open the drawer and see more stuff. </li>
-<li>Right-click on an icon to get related help. </li>
-<li>Just wait with mouse pointer will popup a mini help message. </li>
-<p style="hp"></p>
+  <p style="hp"><b>In alto a sinistra </b>ci sono le icone degli
+  strumenti (selezione e bulldozer) e di tutte le strutture che puoi
+  costruire durante il gioco. </p>
+  <li>Click-sinistro per aprire il menu e visualizzare le altre icone. </li>
+  <li>Click-destro su una icona per aprire la guida. </li>
+  <li>Lasciare il mouse su una icona mostra un piccolo popup di aiuto. </li>
+  <p style="hp"></p>
 
-<p style="hp"><b>Lower left </b>is game speed control </p>
-<p style="hp"></p>
+  <p style="hp"><b>In basso a sinistra </b>c'e` il controllo della
+  velocita` di gioco </p>
+  <p style="hp"></p>
 
-<p style="hp"><b>Lower right </b>contains all the "information tools": miniscreen with 4 tabs, and below mini-icons for various informations. Click on them to see what happens. </p>
-<p style="hp"></p>
+  <p style="hp"><b>In basso a destra </b>ci sono tutti gli "strumenti
+    di informazione": un riquadrino con 4 tab e sotto piccole icone
+    per le varie informazioni. Clickale per vedere cosa accade. </p>
+  <p style="hp"></p>
 
-<p style="hp">Try keyboard and mouse (left, middle and right click and wheel...) , F1 for Help. </p>
+  <p style="hp">Prova ad usare la tastiera ed il mouse (click
+  sinistro, centrale e destro e la rotellina...), F1 per la guida. </p>
 
-<p style="hp">See also:</p>
-<li><a href="tutorial-basics">First steps</a></li>
-<li><a href="tutorial-advanced">Advanced-features</a></li>
-<li><a href="tutorial-scenario">Pre-defined scenario</a></li>
+  <p style="hp">Vedi anche:</p>
+  <li><a href="tutorial-basics">Primi passi</a></li>
+  <li><a href="tutorial-advanced">Funzionalita` avanzate</a></li>
+  <li><a href="tutorial-scenario">Scenario predefinito</a></li>
 
 </Document>
 

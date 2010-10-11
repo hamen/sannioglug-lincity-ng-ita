@@ -1,36 +1,38 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Windmills</p>
-	<p style="hp">Windmills provide power for residences and farms. They
-        enable the farmer to process food more efficiently and make residences
-        more desirable.</p>
-	<p style="hp">Providing power to residences makes the people there use
-        more goods.</p>
-	<p style="hp">Low tech windmills do <b>not</b> provide power to industries.
-       (Heavy industry can get power from coal, light industry needs <i>real</i>
-       electricity to be powered, they still work without power at a lower 
-       output) Windmills cannot directly provide power to industries and 
-       recyclers.</p>
-	<p style="hp">Windmills also need manpower for producing power. If a 
-       windmill does not have enough jobs, it will produce less power and it
-       will produce no power at all if it has no jobs.</p>
-	
-	<p style="hp">There are two forms of windmills.</p>
+	<p style="htitle">Mulini a vento / Pale eoliche</p>
+	<p style="hp">I mulini a vento / Le pale eoliche forniscono
+        energia alle abitazioni e alle fattorie. Consentono alle
+        fattorie di produrre cibo in maniera piu` efficiente e rende
+        le abitazioni piu` desirabili.</p>
+	<p style="hp">Fornire energia elettrica alle abitazioni,
+        consente agli inquilini di usare piu` beni.</p>
+	<p style="hp">I mulini a vento <b>non</b> forniscono
+       elettricita` alle industrie. (Le industrie pesanti ottengono
+       elettricita` dal carbone, le industrie leggere hanno bisogno di
+       </i>vera</i> elettricita` per essere alimentate, ma possono
+       comunque lavorare a produzione ridotta senza elettricita`). I
+       mulini a vento non possono alimentare direttamente le industrie
+       e gli impianti di ricliclo rifiuti.</p>
+	<p style="hp">I mulini a vento / Le pale eoliche hanno bisogno
+       di lavoratori per produrre elettricita`. Se un mulino a vento /
+       una pala eolica non ha abbastanza lavoratori produce meno
+       energia. La produzione cessa del tutto se mancano lavoratori.</p>
+	<p style="hp">Ci sono due forme di mulini a vento.</p>
 	<img src="images/gui/buttonpanel/power/windmills.png" halign="center"/>
-	<p style="hp">The first is a low-tech 'wooden' windmill.</p>
+	<p style="hp">Il primo e` il classico mulino a vento 'in
+	legno', poco tecnologico.</p> 
 	<img src="images/tiles/windmill1w.png" halign="center"/>
-	<p style="hp">The second is a 'modern' wind-farm type.</p>
+	<p style="hp">Il secondo e` una moderna pala eolica.</p>
 	<img src="images/tiles/windmill1g.png" halign="center"/>
-	<p style="hp">The type you get depends on your tech-level when you build it.</p>
-	<p style="hp">High tech windmills can supply power lines.</p>
-	
-		<p style="hsubtitle">See also:</p>
-	<li><a href="substation">Substation</a></li>
-	<li><a href="powerline">Power lines</a></li>
-	<li><a href="residential">Residential</a></li>
-	<li><a href="tech-level">Tech-level</a></li>
-	<li><a href="msb-power">Power overlay</a></li>
-	<li><a href="powersolar">Solar power station</a></li>
-	
-	
+	<p style="hp">Il tipo dipende dal livello tecnologico che hai
+	quando la costruisci.</p>
+	<p style="hp">Le pale eoliche possono alimentare le linee elettriche.</p>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="substation">Sotto-centrali</a></li>
+	<li><a href="powerline">Linee elettriche</a></li>
+	<li><a href="residential">Abitazioni</a></li>
+	<li><a href="tech-level">Tecnologia</a></li>
+	<li><a href="msb-power">Mappa dell'elettricita`</a></li>
+	<li><a href="powersolar">Centrali solari</a></li>
 </Document>

@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Coal mine</p>
-	<p style="hp">Coal mines dig coal from under the ground. There must be a coal seam close to the mine. To see where the seams are you can click on the coal button just above the mini screen.</p>
-	<p style="hp">The first time you use this button, it will cost you 1 million. After that it is free. You don't need to use this button, but you will have to find the coal by trial and error.</p>
-	<p style="hp">Coal mines need jobs to mine coal.</p>
+	<p style="htitle">Miniera di carbone</p>
+	<p style="hp">Nelle miniere di carbone si scava il carbone dal sottosuolo. Vicino alla miniera deve esserci un giacimento di carbone. Per vedere dove sono le cuciture puoi clickare sul bottone carbone appena sopra il mini schermo.</p>
+	<p style="hp">La prima volta che si usa questo pulsante vi costera` 1 milione. Successivamente e` gratis. Non e` necessario usare questo bottone, ma si potra` trovare il carbone per tentativi, anche commettendo errori.</p>
+	<p style="hp">Le miniere di carbone hanno bisogno di minatori.</p>
 	
-	<p style="hp">This is a coalmine</p>
+	<p style="hp">Questa e` una miniera di carbone</p>
 	<img src="images/tiles/coalmine-full.png" halign="center"/>
-	<p style="hp">and this its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/mining/coalmine.png" halign="center"/>
 
-	<p style="hp">The graphics show the amount of coal already dug but not put onto transport. The above coal mine has maximum stock.</p>
-	<p style="hp">Clicking on a coal mine will show you, in the mappoint stats window, the coal stock at the pit, and, more importantly, the coal reserve available to be dug.</p>
-	<p style="hp">Coal mines produce <a href="pollution">pollution</a>.</p>
+	<p style="hp">I grafici mostrano la quantita` di carbone gia` scavata ma non ancora trasportata. La miniera di carbore puo` contenere uno stock massimo di carbone.</p>
+	<p style="hp">Clickando sulla miniera di carbone verra` mostrato, nel quadratino in basso a destra, lo stock di carbone estratto e soprattutto la riserva ancora disponibile da poter estrarre.</p>
+	<p style="hp">Produzione miniera di carbone<a href="pollution">inquinamento</a>.</p>
 
-	<p style="hsubtitle">See also:</p>
-	<li><a href="coal">Coal</a></li>
-	<li><a href="powerscoal">Coal power station</a></li>
-	<li><a href="transport">Transport</a></li>
-	<li><a href="jobs">Jobs</a></li>
-	<li><a href="pollution">Pollution</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="coal">Carbone</a></li>
+	<li><a href="powerscoal">Centrale elettrica a carbone</a></li>
+	<li><a href="transport">Trasporti</a></li>
+	<li><a href="jobs">Posti di lavoro</a></li>
+	<li><a href="pollution">Inquinamento</a></li>
 </Document>

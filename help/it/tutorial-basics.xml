@@ -1,48 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document style="helpdocument">
-<p style="htitle">First steps </p>
-<p style="hp">Choose "new game " &gt; "random village". Other scenarii are for more or less experienced players. </p>
-<p style="hp">Notice that the random village contains basic resources: </p>
-<li>Farms for feeding markets with foods </li>
-<li>A Water well for people</li>
-<li>Communes which produces charcoal and small amount of ore and steel </li>
-<li>Residential areas</li>
-<li>Pottery</li>
-<li>Tracks</li>
+  <p style="htitle">Primi passi </p>
+  <p style="hp">Scegli "nuova partita " &gt; "villaggio casuale". Gli
+    altri scenari sono per giocatori piu` o meno allenati. </p>
+  <p style="hp">Nota che il villaggio casuale contiene gia` alcune
+    risorse di base: </p>
+  <li>Fattorie per fornire cibo ai mercati</li>
+  <li>Un pozzo per l'acqua</li>
+  <li>Le communes, che produdono carbone vegetale e una piccola
+    quantita` di oro e acciaio</li>
+  <li>Aree residenziali</li>
+  <li>Fabbriche di ceramiche</li>
+  <li>Sentieri</li>
 
-<p style="hp">Clicking on a building (in the main screen) displays information about it in the information window in lower right.</p>
+  <p style="hp">Un click su una struttura (nella schermata principale)
+    mostra informazioni a riguardo nel riquadrino in basso a destra.</p>
 
-<p style="hsubtitle">Market </p>
-<p style="hp">Market is a key building in Lincity. They are mandatory for nearly all local trades. You <b> must </b> read the help on <a href="market">market </a> :-). <i>Of course, when a market is empty it cannot sell the corresponding item, and when it is full it cannot buy more. This may help you to understand why some building does not work (probably they cannot find what they need, or they cannot sell their production)</i> </p>
+  <p style="hsubtitle">Mercato </p>
+  <p style="hp">Il mercato e` una struttura chiave in Lincity. Sono
+    obbligatori per i commerci locali. <b>Devi </b> assolutamente
+    leggere la guida a riguardo (<a href="market">Mercato</a>)
+    :-). <i>Naturalmente, quando un mercato e` vuoto non puo` vendere le
+      merci, e quando e` pieno non ne puo` acquistare altre. Questo puo`
+      aiutarti a capire perche` alcune strutture non funzionano
+      (probabilmente non riescono a trovare cio` di cui hanno bisogno o
+      non riescono a vendere i loro prodotti)</i></p>
 
-<p style="hsubtitle">Transport </p>
-<p style="hp"><a href="transport">Transport </a> is needed for long distance exchanges, and for some specific activities (it is then written in the corresponding help message, for example communes). Like markets they have a limited capacity and can get saturated.</p>
+  <p style="hsubtitle">Trasporti</p>
+  <p style="hp"><a href="transport">I trasporti</a> sono necessari per
+    gli scambi su lunghe distanze e per alcune attivita` specifiche (e`
+    tutto riportato nelle corrispondenti pagine della guida, per esempio
+    le communes). Come i mercati, anche i trasporti hanno capatita`
+    limitate e possono saturare.</p>
 
-<p style="hp">If a 'normal' building is not in the range of a market, then it must be connected to transport. But remember that roads and rails have a yearly cost, so unless you really want to isolate one building (e.g. a monument) it is generally better (and cheaper) to use markets when needed. </p>
+  <p style="hp">Se una struttura non e` nella zona coperta dal mercato,
+    deve necessariamente essere connessa ai trasporti. Ricorda che le
+    strade e le ferrovie hanno costi annuali di manutenzione, quindi a
+    meno che tu non voglia isolare una struttura (es. un monumento) e`
+    generamente consigliato (e piu` economico) usare i mercati dove
+    necessario.</p>
 
-<p style="hp">In the initial village tracks are not needed. But they will be useful when the village develops.</p>
+  <p style="hp">Nel villaggio iniziale, i sentieri non sono
+    necessari. Diventano, pero`, utili quando il villaggio si
+    amplia.</p>
 
-<p style="hsubtitle">Money </p>
-<p style="hp">Productions are taxed and thus earn you money. In the miniwindow, the third tab is <a href="finance"> Finance window </a>.  Take care of not investing too much too quickly: when your money is negative, you cannot build some things, and you have per year cost due to the debt. This can lead to bankruptcy (see <a href="tutorial-scenario"> Hard-time scenario </a>. </p>
+  <p style="hsubtitle">Denaro</p>
+  <p style="hp">I prodotti vengono tassati e questo ti fa guadagnare
+    denaro. Nel riquadrino, la terza tab e` la <a href="finance">
+      scheda delle Finanze</a>. Fai attenzione a non investire molto
+    troppo velocemente: quando il tuo bilancio e` in negativo, non puoi
+    costruire alcune cose e hai anche costi annuali, gli interessi, sui
+    tuoi debiti. Questa situazione potrebbe portarti alla bancarotta
+    (vedi <a href="tutorial-scenario"> scenario tempi
+      difficili </a>.</p>
 
-<p style="hsubtitle">Developing the city </p>
-<p style="hp">Remember people eat food and drink water, or die. To control population growth, you have to find a balance in the kind of <a href="residential"> Residential area </a> you build (they have different rate of birth/death). The new population will allow more jobs, but also need more food, goods, jobs ... </p>
-<p style="hp">You will have to augment your production (add potteries, blacksmith) and at the same time take care that they are supplied. So you will also need to add communes accordingly. </p>
-<p style="hp">To get new buildings you must raise your <a href="tech-level"> Tech Level </a>.</p>
-<p style="hp"> At some point you will have to choose your aim: either <a href="sustain"> Sustainable economy </a> or evacuation with <a href="rocket"> spaceships </a>.</p>
+  <p style="hsubtitle">Sviluppare la citta`</p>
+  <p style="hp">Ricorda che le persone hanno bisogno di cibo ed acqua
+    per non morire. Per controllare la crescita demografica, devi
+    trovare un equilibrio nel tipo di <a href="residential"> zone
+      residenziali </a> che costruisci (esse hanno differenti tassi di
+    natalita`/mortalita`). La nuova popolazione ti offrira` piu`
+    lavoratori, ma richiedera` anche molto piu` cibo, beni, offerte di
+    lavoro ... </p>
+  <p style="hp">Dovrai aumentare la tua produzione (aggiungere fabbriche
+    di ceramiche, maniscalchi) ed allo stesso tempo dovrai assicurarti
+    che abbiano i loro rifornimenti. Quindi dovrai aggiungere commune
+    quando necessarrio. </p>
+  <p style="hp">Per poter costruire nuove strutture, devi aumentare il
+    tuo <a href="tech-level"> Livello Tecnologico </a>.</p>
+  <p style="hp"> Ad un certo punto dovrai scegliere il tuo
+    obbiettivo: <a href="sustain"> Economia sostenibile </a> oppure
+    Evacuazione con le <a href="rocket"> navi spaziali</a>.</p>
 
-<p style="hp">You'll have to check very often the <a href="pbar"> total market stocks </a>. Also minimaps can give you better insight on your economy, and for precise investigation remember that clicking on a building (in the main screen) displays information about it in the information window in lower right. </p>
+  <p style="hp">Dovrai controllare molto spesso le<a href="pbar">
+      riserve totali dei mercati</a>. Anche la minimappa puo` darti
+    un'idea migliore della tua economia, e per analisi piu` precise
+    ricorda che puoi clickare su una struttura (nella schermata
+    principale) e visualizzarne le informazioni nel riquadrino in
+    basso a destra.</p>
 
-<li>Hint: Make one or two changes then wait a little (read help files ;-) or put the game at a faster speed, and watch how your economic indicators vary. </li>
-<p style="hp"></p>
-<p style="hp">Enjoy.</p>
-<p style="hp"></p>
+  <li>Consiglio: fai una o due variazioni e aspetta un po'(leggi la
+    guida nel frattempo_;-) o simula il gioco a velocita` elevata e
+    guarda come variano gli indicatori economici. </li>
+  <p style="hp"></p>
+  <p style="hp">Buon divertimento.</p>
+  <p style="hp"></p>
 
-<p style="hp">See also:</p>
-<li><a href="tutorial-advanced">Tutorial Advanced-features</a></li>
-<li><a href="tutorial-scenario">Tutorial Pre-defined scenario</a></li>
-<li><a href="msb-starve">Starvation overlay</a></li>
-<li><a href="msb-ub40">Unemployment overlay</a></li>
+  <p style="hp">See also:</p>
+  <li><a href="tutorial-advanced">Tutorial funzionalita` avanzate</a></li>
+  <li><a href="tutorial-scenario">Tutorial scenario predefinito</a></li>
+  <li><a href="msb-starve">Mappa carestia</a></li>
+  <li><a href="msb-ub40">Mappa disoccupazione</a></li>
 
 
 </Document>

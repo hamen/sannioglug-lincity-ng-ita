@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Coal</p>
-	<p style="hp">Coal is used by coal fired power stations to make electricity (power). It is also used by potteries, mills and blacksmiths in the process of making goods. Heavy industry (steel works) use coal when they cannot get electricity.</p>
-	<p style="hp">Coal is dug from under the ground by coal mines. There is a finite coal reserve which you can see with use of the coal reserve button (see coal mines).</p>
-	<p style="hp">Communes provide a little 'coal' as well. Really this is charcoal from coppiced woods. They only provide small amounts, enough for a few potteries and blacksmiths.</p>
+	<p style="htitle">Carbone</p>
+	<p style="hp">Il carbone e` usato dalle centrali elettriche a carbone per produrre elettricita`. E` anche usato nelle fabbriche di ceramica, nei mulini e dai maniscalchi nel processo di produzione dei beni. Il carbone e` usato nelle industrie pesanti ( acciaierie ) quando non possono avere l'elettricita`.</p>
+	<p style="hp">Il carbone e` estratto nel sottosuolo dalle miniere di carbone. C'e` un numero limitato di giacimenti di carbone, per vederli clicka sul bottone "giacimenti di carbone" ( vedi miniere di carbone ).</p>
+	<p style="hp">Anche le "communes" forniscono un po` di carbone. In realta` e` carbone vegetale dei boschi cedui. Ne forniscono in piccole quantita`, sufficienti per un paio di fabbriche di ceramica e un paio di maniscalchi.</p>
 
-	<p style="hsubtitle">See also:</p>
-	<li><a href="coalmine">Coal mines</a></li>
-	<li><a href="powerscoal">Coal power station</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="coalmine">Miniere di carbone</a></li>
+	<li><a href="powerscoal">Centrali elettriche a carbone</a></li>
 	<li><a href="commune">Communes</a></li>
-	<li><a href="pottery">Potteries</a></li>
-	<li><a href="blacksmith">Blacksmiths</a></li>
-	<li><a href="msb-coal">Coal overlay</a></li>
+	<li><a href="pottery">Fabbriche di ceramica</a></li>
+	<li><a href="blacksmith">Maniscalchi</a></li>
+	<li><a href="msb-coal">Mappa carbone</a></li>
 </Document>

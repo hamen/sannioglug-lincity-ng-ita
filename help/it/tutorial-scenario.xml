@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document style="helpdocument">
-<p style="htitle">Pre-defined scenarii </p>
-<p style="hp">Under "new game" </p>
+  <p style="htitle">Scenarii predefiniti </p>
+  <p style="hp">"Nuova partita" </p>
 
-<p style="hsubtitle"> Easy</p>
-<li>Good time </li>
+  <p style="hsubtitle"> Facile</p>
+  <li>Bei tempi  </li>
 
-<li>Beach (remember that people eat food or die ;-) </li>
+  <li>Spiaggia (ricorda che le persone hanno bisogno di cibo per vivere ;-) </li>
 
-<p style="hsubtitle">Hard </p>
-<li>"hard-time": try to avoid bankruptcy. Careful analysis of the whole city is needed, and drastic measures are needed to cut costs and make money. It is hard but possible, even possible to reach sustainable development. </li>
-<li>"extreme_arid": the land is very poor in water, so farms and communes ned to be carefully placed for maximum efficiency.</li>
-<li>"extrem_wetland": the land is nearly flooded, so it is very difficult to build the city.</li>
-<p style="hp"></p>
+  <p style="hsubtitle">Difficile </p>
+  <li>"tempi-difficili": evita la bancarotta. E` necessaria una attenta
+    analisi di tutta la citta`, e sono necessarie misure drastiche per
+    contenere i costi ed aumentare i profitti. E` complicato, ma
+    possibile. E` possibile anche uno sviluppo sostenibile. </li>
+  <li>"estremamente_arido": il terreno e` particolarmente povero di
+    acqua e questo obbliga a posizionare attentamente fattorie e commune
+    per ottenere la massima efficienza.</li>
+  <li>"estramamente_umido": il terreno e` quasi inondato ed e`
+    particolarmente difficile costruire la citta`.</li>
+  <p style="hp"></p>
 </Document>
 

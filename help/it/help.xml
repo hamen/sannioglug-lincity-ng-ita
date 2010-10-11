@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Document style="helpdocument">
-	<p style="htitle">Lincity Help</p>
-	<p style="hp">This is the Lincity help system. Please choose a topic by clicking on one of the blue words below. Blue words generally indicate a link to another document. Use arrow on top left to go back to previous help.</p>
-	<p style="hp">While playing the game, you can get help with most things using the help button, or right-click on a specific building icon in the top-left dock.</p>
+	<p style="htitle">Guida di Lincity</p>
+	<p style="hp">Questa e` la guida di Lincity. Scegli un
+	argomento clickando una delle parole in blu qui sotto. Le
+	parole in blu generalmente indicano un link ad un altro
+	documento. Usa la freccia in alto a sinistra per tornare alla
+	pagina precedente.</p>
+	<p style="hp">Durante il gioco, puoi ottenere aiuto su molte
+	cose usando il pulsante di aiuto o clickando col tasto destro
+	su una qualsiasi delle icone del menu in alto a sinistra.</p>
 
 	<li><a href="tutorial">Tutorial</a></li>
-	<li><a href="keys">Keyboard commands</a></li>
-	<li><a href="button-index">List of all buildable entries</a></li>
-	<li><a href="mini-screen">Help on the minimap</a></li>
-	<li><a href="dialogs">Help on information tabs</a></li>
-	<li><a href="index">Index</a></li>
+	<li><a href="keys">Comandi da tastiera</a></li>
+	<li><a href="button-index">Lista delle strutture</a></li>
+	<li><a href="mini-screen">Guida alla minimappa</a></li>
+	<li><a href="dialogs">Guida alle tab del riquadrino</a></li>
+	<li><a href="index">Indice</a></li>
 
-    <p style="htitle">Objective</p>
-    <p style="hp">You can win Lincity either by building a <a href="sustain">sustainable economy </a> or
-    by evacuating all citizens with <a href="rocket">spaceships</a>.</p>
+    <p style="htitle">Obbiettivo</p>
+    <p style="hp">Puoi vincere a Lincity o raggiungendo
+    una <a href="sustain">economia sostenibile </a> o evacuando tutta
+    la popolazione con le <a href="rocket">navi spaziali</a>.</p>
 </Document>

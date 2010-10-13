@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document style="helpdocument">
-<p style="htitle">Advanced features </p>
-<p style="hsubtitle">Markets and Transports </p>
-<p style="hp">Double click on a market in the main screen opens a windows. This is to control the <b> exchanges between markets and transports</b>. </p>
-<li>buy is what the market buys from the transport (so market stock will increase) </li>
-<li>sell is the opposite. </li>
+<p style="htitle">Funzionalita` avanzate </p>
+<p style="hsubtitle">Mercati e Trasporti </p>
+<p style="hp">Fai doppio click sinistro su un mercato nella schermata
+  principale, si aprira` una finestra. Questa finestra controlla
+  gli <b> scambi tra i mercati e i trasporti</b>. </p>
+<li>Compra e` cio` che il mercato compra dai trasporti (cosi` il
+  magazzino del mercato si riempie) </li>
+<li>Vendi e` l'opposto. </li>
 
-<p style="hp">This feature is rarely used, except when you want to precisely prevent something to happen. </p>
+<p style="hp">Questa funzionalita` e` usata raramente, eccetto quando
+  vuoi prevenire con precisione che una situazione si verifichi. </p>
 
-<p style="hsubtitle">Sustainable development</p>
-<p style="hp">The fourth tab of the miniwindow shows progress bars for sustainable development. </p>
-<p style="hp">It is strongly recommended to save the game before you let it run for a long time and see if you have reached a sustainable state. If something goes very wrong (starvation for example) you can restart from the saved game :-) </p>
-<p style="hp">Watching at the total markets stocks (the miniwindow with progress bars) should prevent big troubles. From time to time check the sustainable progression in the ECO miniwindow should be enough. </p>
+<p style="hsubtitle">Sviluppo sostenibile</p>
+<p style="hp">La quarta tab del riquadrino mostra la barra dei
+  progressi dello sviluppo sostenibile. </p>
+<p style="hp">E` fortemente raccomandato salvare la partita prima di
+  lasciar proseguire il gioco per molto tempo e constatare se hai
+  raggiunto lo stato sostenibile. Se qualcosa va storto (carestia, per
+  esempio) puoi sempre ricominciare dal salvataggio :-) </p>
+<p style="hp">Controllare le scorte dei mercati (la barra dei
+  progressi nel riquadrino) dovrebbe evitarti grossi problemi. Di
+  tanto in tanto, controllare i progressi di sistenibilita` nella tab
+  ECO del riquadrino dovrebbe essere sufficiente. </p>
 
-<li>Hint: Beware of shanties and wastes in markets... </li>
+<li>Consiglio: tieni d'occhio le baraccopoli e i rifiuti nei mercati... </li>
 <p style="hp"></p>
 </Document>
 

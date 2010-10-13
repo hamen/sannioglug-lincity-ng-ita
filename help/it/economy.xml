@@ -1,32 +1,33 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Economy Graph</p>
-	<p style="hp">This graphs contains four coloured lines. They show the most important economic factors.</p>
+	<p style="htitle">Grafico sull'economia</p>
+	<p style="hp">Questi grafici hanno 4 linee colorate. Evidenziano i fattori economici piu` importanti.</p>
 	<li>
-		<span color="brown">Population</span>	(brown) 
-        The brown line represents your population.
-        It is shown as a log scale.
+		<span color="brown">Popolazione</span>	(marrone) 
+        La linea marrone rappresenta la tua popolazione.
+	E` rappresentata su scala logaritmica.
 	</li>
 	<li>
-		<span color="blue">Unhoused</span> (blue) 
-        The blue line represents the demand for
-        housing. The height of the graph is
-        proportional to the square root of the
-        'unhoused' population.
+		<span color="blue">Senzatetto</span> (blu) 
+        La linea blu rappresenta la domanda di case.
+        L'altezza del grafico e` proporzionale alla
+	radice quadrata della popolazione "senzatetto".
 	</li>
 	<li>
-		<span color="yellow">Unemployment</span> (yellow) 
-        The solid yellow 'bars' show that there is
-        unemployment. The scale of this graph
-        changes with your population. This graph
-        is solid to draw your attention to it.
+		<span color="yellow">Disoccupazione</span> (giallo) 
+        La barra giallo forte evidenzia che c'e`
+	disoccupazione. La scala di questo grafico
+	cambia con la popolazione.Questo grafico
+	e` pieno appositamente per attirare la tua
+	attenzione.
 	</li>
 	<li>
-		<span color="red">Starvation</span> (red) 
-        The solid red 'bars' show that there is
-        starvation. The scale of this graph
-        changes with your population. This graph
-        is solid to draw your attention to it.
-        This bar is drawn over the unemployment bar.
+		<span color="red">Fame</span> (rosso) 
+	La barra rosso forte evidenzia che c'e`
+	fame. La scala di questo grafico
+	cambia con la popolazione.Questo grafico
+	e` pieno appositamente per attirare la tua
+	attenzione. Questa barra e` disegnata
+	sulla barra di disoccupazione.
 	</li>
 </Document>

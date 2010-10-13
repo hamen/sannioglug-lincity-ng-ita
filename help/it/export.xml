@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Import and export areas</p>
-	<p style="hp">Importing and exporting work in the same way except that the first costs you money and the second makes you money. Both requires a Port. For this reason, only exporting will be dealt with in detail.</p>
-	<p style="hp">To export, the port must be connected with a road.</p>
-	<p style="hp">They <b>must</b> be connected to rivers all along the right hand side.</p>
-	<p style="hp">The export area will take as much as it is given. If you need to export, but want to  restrict the amount, you may want to use a type of transport with less capacity, use a long piece or pass the product through a market. You will need to experiment to get the right transport configuration.</p>
+	<p style="htitle">Aree di importazione ed esportazione</p>
+	<p style="hp">L'importazione e l'esportazione funzionano allo stesso modo tranne che il primo ti costa denaro e il secondo ti fa guadagnare denaro. Entrambi richiedono un porto. Per questo motivo solo le esportazioni saranno trattate in dettaglio.</p>
+	<p style="hp">Per esportare, la porta deve essere collegata con una strada.</p>
+	<p style="hp"><b>Devono</b> essere collegati a tutti i fiumi lungo il lato destro.</p>
+	<p style="hp">L'area di esportazione prendera` tutto quello ke gli verra` mandato. Se avete bisogno di esportare, ma volete limitare la quantita`, si consiglia di utilizzare un tipo di trasporto con minore capacita`,utilizzare un pezzo lungo o far passare il prodotto attraverso un mercato. Hai bisogno di prove per ottenere la giusta configurazione di trasporto.</p>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="port">Port</a></li>
-	<li><a href="transport">Transport</a></li>
-	<li><a href="market">Markets</a></li>
-	<li><a href="coal">Coal</a></li>
-	<li><a href="ore">Ore</a></li>
-	<li><a href="goods">Goods</a></li>
-	<li><a href="steel">Steel</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="port">Porto</a></li>
+	<li><a href="transport">Trasporti</a></li>
+	<li><a href="market">Mercati</a></li>
+	<li><a href="coal">Carbone</a></li>
+	<li><a href="ore">Oro</a></li>
+	<li><a href="goods">Beni</a></li>
+	<li><a href="steel">Acciaio</a></li>
 </Document>

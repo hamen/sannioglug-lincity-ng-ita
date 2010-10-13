@@ -2,10 +2,10 @@
 <Document style="helpdocument">
 	<p style="htitle">Tutorial</p>
 
-	<li><a href="tutorial-aim">Aim of the game</a></li>
-	<li><a href="tutorial-overview">Overview of screen</a></li>
-	<li><a href="tutorial-basics">First steps</a></li>
-	<li><a href="tutorial-advanced">Advanced-features</a></li>
-	<li><a href="tutorial-scenario">Pre-defined scenario</a></li>
+	<li><a href="tutorial-aim">Scopo del gioco</a></li>
+	<li><a href="tutorial-overview">Panoramica della mappa</a></li>
+	<li><a href="tutorial-basics">Primi passi</a></li>
+	<li><a href="tutorial-advanced">Funzionalita` avanzate</a></li>
+	<li><a href="tutorial-scenario">Scenario predefinito</a></li>
 </Document>
 

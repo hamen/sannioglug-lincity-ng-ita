@@ -1,14 +1,16 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Tracks</p>
-	<p style="hp">Tracks are the simplest, and cheapest, form of transport. They also have the lowest capacity. On the other hand, they produce no pollution.</p>
+	<p style="htitle">Sentieri</p>
+	<p style="hp">I sentieri sono la piu` semplice e la piu`
+	  economica delle possibilita` di trasporto. Hanno la piu`
+	  bassa capacita`. I sentieri non producono inquinamento.</p>
 	
-	<p style="hp">This is a track</p>
+	<p style="hp">Questo e` un sentiero</p>
 	<img src="images/tiles/trackud.png" halign="center"/>
-	<p style="hp">and this is its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/transport/tracks.png" halign="center"/>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="transport">Transport</a></li>
-	<li><a href="commune">Communes</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="transport">Trasporti</a></li>
+	<li><a href="commune">Commune</a></li>
 </Document>

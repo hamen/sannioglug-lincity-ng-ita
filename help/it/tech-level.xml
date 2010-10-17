@@ -1,17 +1,33 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Tech Level</p>
-	<p style="hp">Your city's technology level determines a number of things, such as what you can build and the efficiency of certain processes.</p>
-	<p style="hp">To increase your technology, you must build (and supply with the appropriate inputs) Monuments, Schools and  Universities.</p>
-	<p style="hp">When your tech level is very low you can only build monuments. When a few of these have been around for a while, you will then <i>invent</i> schools. Schools produce more technology than monuments.</p>
-	<p style="hp">When your tech level reaches a higher value still, you will <i>invent</i> universities. These produce even more technology than schools, but are <b>very</b> resource hungry.</p>
-	<p style="hp">The more technology you have, the faster it <i>erodes</i>. This means that the higher you want your tech level to be, the more schools and universities you will need.</p>
-	<p style="hp">Also, be aware that if for some reason you need to take out, say, a university or two (or they are suddenly starved of resources) your tech level is likely to start <b>falling</b>.</p>
-	<p style="hp">Percentage of chance for a successful rocket launch is equal to your tech-level.</p>
+	<p style="htitle">Tecnologia</p>
+	<p style="hp">Il livello tecnologico della tua citta`
+	  determina un certo numero di cose, cosa puoi costruire, per
+	  esempio, e l'efficienza di alcuni processi.</p>
+	<p style="hp">Per aumentare la tecnologia, devi costruire e
+	approviggionare Monumenti, Scuole e Universita`.</p>
+	<p style="hp">Quando il tuo livello tecnologico e`
+	particolarmente basso, puoi costruire solo
+	Monumenti. Costruiti un po' di monumenti, <i>inventerai</i> le
+	scuole. Le scuole producono piu` tecnologia dei monumenti.</p>
+	<p style="hp">Quando il livello tecnologico raggiunge un
+	valore ancora piu` alto, <i>inventerai</i> le
+	universita`. Queste producono ancora piu` tecnologia delle
+	scuole, ma sono <b>molto</b> avide di risorse.</p>
+	<p style="hp">Piu` tecnologia hai, piu` alti sono
+	i <i>consumi</i>. Questo significa che piu` vuoi alzare il tuo
+	livello tecnologico, di piu` scuole ed universita` avrai
+	bisogno.</p> 
+	<p style="hp">Inoltre, considera che se per qualche motivo
+	avrai necessita` di demolire qualche universita o se le
+	universita avranno una carenza di risorse, il livello
+	tecnologico iniziera` a <b>calare</b>.</p>
+	<p style="hp">La probabilita` di effettuare un corretto lancio
+	di un razzo e` proporzionale al tuo livello tecnologico.</p>
 
-	<p style="hsubtitle">See also:</p>
-	<li><a href="monument">Monuments</a></li>
-	<li><a href="school">Schools</a></li>
-	<li><a href="university">Universities</a></li>
-	<li><a href="rocket">Rocket Launch Pad</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="monument">Monumenti</a></li>
+	<li><a href="school">Scuole</a></li>
+	<li><a href="university">Universita`</a></li>
+	<li><a href="rocket">Base di lancio razzi</a></li>
 </Document>

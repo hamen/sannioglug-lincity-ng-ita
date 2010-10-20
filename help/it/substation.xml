@@ -1,18 +1,22 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Substations</p>
-	<p style="hp">Substations take power packets from power lines and distribute the power to the surrounding area. You can see if, for example, your residential area is powered by clicking on the icon, then looking at the map point stats window.</p>
+	<p style="htitle">Sotto-centrali</p>
+	<p style="hp">Le sotto-centrali prendono frazioni dell'energia
+	delle linee elettriche e distribuiscono l'energia nell'area
+	circostante. Puoi controllare se la zona e` raggiunta
+	dall'energia elettrica clickando sull'icona e controllando le
+	informazioni nel riquadrino in basso a destra.</p>
 	
-	<p style="hp">This is a substation</p>
+	<p style="hp">Questa e` una sotto-centrale</p>
 	<img src="images/tiles/substation-G.png" halign="center"/>
-	<p style="hp">and this is its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/power/substation.png" halign="center"/>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="powerline">Power lines</a></li>
-	<li><a href="powerssolar">Solar power station</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="powerline">Linee elettriche</a></li>
+	<li><a href="powerssolar">Centrali ad energia solare</a></li>
 	<li><a href="commune">Commune</a></li>
-	<li><a href="steel">Steel</a></li>
-	<li><a href="jobs">Jobs</a></li>
+	<li><a href="steel">Acciaio</a></li>
+	<li><a href="jobs">Lavori</a></li>
 </Document>
 

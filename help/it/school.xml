@@ -1,20 +1,31 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Schools</p>
-	<p style="hp">Schools use jobs and goods to produce technology in a similar way to universities. They use far fewer jobs and goods than universities, but produce far fewer tech points. Given the choice between putting four or five schools in a given area, or a single university, it is often (but not always) better to put a university in.</p>
-	<p style="hp">Schools do <b>not</b> need to connect to transport, but do need to be within range of a market than can supply the quantity of jobs and goods to make the school work.</p>
-	<p style="hp">Schools cost money to run. You can see the total cost for the <b>last</b> year by clicking on the money button.</p>
-	<p style="hp">You can see when a school is working in the usual way, by clicking on it.</p>
+	<p style="htitle">Scuole</p>
+	<p style="hp">Le scuole forniscono lavoro e usano beni per
+	produrre tecnologia in maniera simile alle universita`. Hanno
+	bisogno di molti meno impiegati e beni, ma producono molta
+	meno tecnologia. Dovendo scegliere tra costruire quattro o
+	cinque scuole in una zona o una singola universita`, e` spesso
+	(ma non sempre) meglio costruire una universita`.</p>
+	<p style="hp">Le scuole <b>non</b> vanno connesse ai
+	trasporti, ma devono essere in una zona coperta da un mercato
+	che deve soddisfare i bignogni di lavoratori e beni per poter
+	consentire alla scuola di funzionare.</p>
+	<p style="hp">Le scuole hanno costi di gestione. Puoi vedere i
+	costi totali <b>dell'ultimo</b> anno clickando sul bottone
+	delle spese nel riquadrino.</p>
+	<p style="hp">Puoi assicurarti che una scuola stia lavorando
+	clickando sulla sua icona.</p>
 	
-	<p style="hp">This is a school</p>
+	<p style="hp">Questa e` una scuola</p>
 	<img src="images/tiles/school0.png" halign="center"/>
-	<p style="hp">and this its icon</p>
+	<p style="hp">questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/misc/book.png" halign="center"/>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="market">Market</a></li>
-	<li><a href="university">Universities</a></li>
-	<li><a href="transport">Transport</a></li>
-	<li><a href="goods">Goods</a></li>
-	<li><a href="jobs">Jobs</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="market">Mercato</a></li>
+	<li><a href="university">Universita`</a></li>
+	<li><a href="transport">Trasporti</a></li>
+	<li><a href="goods">Beni</a></li>
+	<li><a href="jobs">Lavoro</a></li>
 </Document>

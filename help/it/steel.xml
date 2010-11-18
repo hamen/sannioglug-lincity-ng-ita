@@ -1,16 +1,27 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Steel</p>
-	<p style="hp">Steel is generally made by heavy industry (steel works). You must have attained a sufficient tech level to build a steel works. Before this, communes are your only source of steel. Communes produce a small amount of steel (from ore), so you will usually need a number of communes to provide enough steel for your needs.</p>
-	<p style="hp">Steel is used by blacksmiths to make goods. Steel is used by light industry for tools and products (goods). Light industry works without steel, though its output is much reduced.</p>
-	<p style="hp">Rockets use a lot of steel, mainly to build the launch site.</p>
-	<p style="hp">Railways also use steel for maintenance</p>
+	<p style="htitle">Acciaio</p>
+	<p style="hp">L'acciaio e` prodotto dall'industria pesante
+	(acciaierie). Devi aver raggiunto un livello tecnologico
+	sufficiente per poter costruire le acciaierie. Prima di cio`,
+	  le commune sono l'unica fonte di acciaio. Le Commune
+	producono una piccola quantita` di acciaio (dall'oro), quindi
+	tipicamente avrai bisogno di un certo numero di commune per
+	fornire sufficiente acciaio.</p>
+	<p style="hp">L'Acciaio e` usato dai Maniscalchi per produrre
+	beni. L'Acciaio e` usato dall'industria leggera per strumenti
+	e prodotti (beni). Se l'industria leggera lavora senza
+	acciaio, la produzione e` molto ridotta.</p>
+	<p style="hp">Le navette spaziali usano molto acciaio,
+	principalmente per costruire la base di lancio.</p>
+	<p style="hp">Anche le ferrovie usano acciaio per la
+	manutenzione.</p> 
 
-	<p style="hsubtitle">See also:</p>
+	<p style="hsubtitle">Vedi anche:</p>
 	<li><a href="commune">Commune</a></li>
-	<li><a href="blacksmith">Blacksmith</a></li>
-	<li><a href="goods">Goods</a></li>
-	<li><a href="industryh">Heavy Industry</a></li>
-	<li><a href="industryl">Light Industry</a></li>
-	<li><a href="rail">Railway</a></li>
+	<li><a href="blacksmith">Maniscalchi</a></li>
+	<li><a href="goods">Beni</a></li>
+	<li><a href="industryh">Industria pesante</a></li>
+	<li><a href="industryl">Industria leggera</a></li>
+	<li><a href="rail">Ferrovie</a></li>
 </Document>

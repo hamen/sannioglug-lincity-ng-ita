@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Slow speed</p>
+	<p style="htitle">Velocita` ridutta</p>
 	<img src="images/gui/speed/normal.png"/>
-	<p style="hp">This is the slow button. It causes the to game run at its slowest speed. On slow machines the speed buttons may have no effect.</p>
+	<p style="hp">Questo e` il bottone per la velocita`
+	ridotta. Fa si` che il gioco esegua piu` lentamente. Su
+	computer lenti il bottone della velocita` potrebbe non avere
+	effetti.</p>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="medium">Medium</a></li>
-	<li><a href="fast">Fast</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="medium">Media</a></li>
+	<li><a href="fast">Veloce</a></li>
 </Document>

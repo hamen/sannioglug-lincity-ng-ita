@@ -1,15 +1,18 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Roads</p>
-	<p style="hp">Roads carry more than tracks, but not as much as railways. They produce more pollution than railways as well. They are cheaper to buy and maintain than railways - there had to be a reason for them!</p>
+	<p style="htitle">Strade</p>
+	<p style="hp">Le strade trasportano piu` dei
+	sentieri. Producono piu` inquinamento della ferrovia. Le
+	strade sono piu` economiche da costruire e manutenere rispetto
+	alle ferrovie.</p>
 	
-	<p style="hp">This is a road</p>
+	<p style="hp">Questa e` una strada</p>
 	<img src="images/tiles/roadud.png" halign="center"/>
-	<p style="hp">and this its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/transport/road.png" halign="center"/>
 	
-	<p style="hsubtitle">See also:</p>
-	<li><a href="transport">Transport</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="transport">Trasporti</a></li>
 	<li><a href="commune">Commune</a></li>
-	<li><a href="pollution">Pollution</a></li>
+	<li><a href="pollution">Inquinamento</a></li>
 </Document>

@@ -1,26 +1,40 @@
 <?xml version="1.0"?>
 <Document style="helpdocument">
-	<p style="htitle">Residential area</p>
-        <p style="hp">This is where people live. To encourage people to live in this area they must be fed (be within the range of a water well and get food from markets or transports). It also helps to provide them with work and goods to buy. They must be within range of a market or connected to transport (like most buildings).</p>
-        <p style="hp">There are 3 different types of residential areas: Low, Medium and High density housing. These have different birth and death rates associated with them. This gives you some control over your population.</p>
-	<p style="hp">Later in the game, if you have sufficient technology, you can build more 'modern' housing, even tower blocks.</p>
+	<p style="htitle">Zone residenziali</p>
+        <p style="hp">Sono le zone in cui vive la popolaxionr. Per
+        incoraggiare le persone a vivere in una di queste aree, devono
+        essere alimentate (devono esserci un pozzo d'acqua e cibo, da
+        un mercato o dai trasporti). E` anche utile fornire alle zone
+        residenziali lavoro e beni da comprare. Devono essere nel
+        raggio di copertura di un mercato o collegati ai trasporti
+        (come molti edifici).</p>
+        <p style="hp">Ci sono tre tipi di zone residenziali: Bassa,
+        Media ed Alta densita` abitativa. Hanno differenti tassi di
+        nascita e morte. Questo ti da` controllo sul numero di
+        abitanti della tua citta`.</p>
+	<p style="hp">Con l'avanzamento del gioco, se avrai
+	sufficiente technologia, potrai costruire case piu` moderne e,
+	addirittura, grattacieli.</p>
 
-	<p style="hp">This is a low density housing (hightech)</p>
+	<p style="hp">Questa e` una casa a bassa densita` (technologia
+	avanzata)</p>
 	<img src="images/tiles/reslowhi.png" halign="center"/>
-	<p style="hp">and this is its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/residence/residence-hightec-lo.png" halign="center"/>
-	<p style="hp">This is a medium density housing (hightech)</p>
+	<p style="hp">Questa e` una casa a media densita` (technologia
+	avanzata)</p>
 	<img src="images/tiles/resmedhi.png" halign="center"/>
-	<p style="hp">and this is its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/residence/residence-hightec-med.png" halign="center"/>
-	<p style="hp">This is a high density housing (hightech)</p>
+	<p style="hp">Questa e` una casa ad alta densita` (technologia
+	avanzata)</p>
 	<img src="images/tiles/reshihi.png" halign="center"/>
-	<p style="hp">and this is its icon</p>
+	<p style="hp">e questa e` la sua icona</p>
 	<img src="images/gui/buttonpanel/residence/residence-hightec-high.png" halign="center"/>
 
-	<p style="hsubtitle">See also:</p>
-	<li><a href="market">Market</a></li>
-	<li><a href="transport">Transport</a></li>
-        <li><a href="waterwell">Water well</a></li>
+	<p style="hsubtitle">Vedi anche:</p>
+	<li><a href="market">Mercato</a></li>
+	<li><a href="transport">Trasporti</a></li>
+        <li><a href="waterwell">Acqua potabile</a></li>
 </Document>
 
